@@ -1,4 +1,4 @@
-windowsLibs
-===========
+lib
+===
 
-Windows libraries
+libs
